@@ -1,4 +1,4 @@
-import { gsap, TweenLite } from "gsap";
+import { TweenLite } from "gsap";
 
 export const closeMenuLinks = (node: any) => {
   TweenLite.to(node, {
