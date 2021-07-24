@@ -14,7 +14,7 @@ export const HamburgerMenu = styled.div`
 `;
 
 export const MenuSecondaryBackgroundColor = styled.div`
-  background: ${COLOR.grey400};
+  background: ${COLOR.purple200};
   position: fixed;
   top: 0;
   bottom: 0;
